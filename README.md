@@ -48,3 +48,5 @@ Files:
 7. REPORT: Reproduzir, Impacto, Logs e Mitigação.
 
 ---
+
+Não me responsabilizo por uso indevido das ferramentas.
