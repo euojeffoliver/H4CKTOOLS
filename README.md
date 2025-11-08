@@ -20,6 +20,8 @@
 
 └─$ gpg -c /hacktools && mv hacktools.gpg ~/.local/share/ && chmod 600 ~/.local/share/hacktools.gpg && chattr +i ~/.local/share/hacktools.gpg
 
+---
+
 # H4CK TOOLS:
 
 Repositório com scripts de Recon, POCs, Reverse Shell e Pivot para testes reais.
@@ -35,9 +37,9 @@ Files:
 * `wldomains.txt` — Lista de Palavras.
 * `adv_trojan.py`, `cowroot*.c`, `peshell.c` — POCs/Alto Risco (Usar Só Em Lab).
 
+---
 
 [![Ir para o repositório](https://img.shields.io/badge/Acessar-Reposit%C3%B3rio-blue?style=for-the-badge&logo=github)](https://github.com/euojeffoliver/tools.git)
-
 
 ---
 
@@ -51,9 +53,9 @@ Files:
 6. LOGS: Armazenar resultados com acesso restrito/criptografado.
 7. REPORT: Reproduzir, Impacto, Logs e Mitigação.
 
+---
 
 [![Ir para o repositório](https://img.shields.io/badge/Acessar-Reposit%C3%B3rio-blue?style=for-the-badge&logo=github)](https://github.com/euojeffoliver/tools.git)
-
 
 ---
 
