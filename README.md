@@ -10,9 +10,9 @@
     ┃                                            ┃
     ┃  "No system is truly safe"                 ┃
     ┃                                            ┃
-    ┃  >> Every defense has a weakness           ┃
-    ┃  >> Every wall has a crack                 ┃
-    ┃  >> Every lock has a key                   ┃
+    ┃  >> HAS BEEN HACKED                        ┃
+    ┃  >> HAS BEEN HACKED                        ┃
+    ┃  >> HAS BEEN HACKED                        ┃
     ┃                                            ┃
     ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
