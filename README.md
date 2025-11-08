@@ -1,4 +1,4 @@
-┌──(root㉿blackarch)-[~/projects]
+┌──(root㉿jeffhack)-[~/projects]
 
 └─$ more README.md
 
@@ -16,7 +16,7 @@
     ┃                                            ┃
     ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
 
-┌──(root㉿blackarch)-[~/projects]
+┌──(root㉿jeffhack)-[~/projects]
 
 └─$ gpg -c /hacktools && mv hacktools.gpg ~/.local/share/ && chmod 600 ~/.local/share/hacktools.gpg && chattr +i ~/.local/share/hacktools.gpg
 
