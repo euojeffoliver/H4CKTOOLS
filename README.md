@@ -39,10 +39,6 @@ Files:
 
 ---
 
-[![Ir para o repositório](https://img.shields.io/badge/Acessar-Reposit%C3%B3rio-blue?style=for-the-badge&logo=github)](https://github.com/euojeffoliver/tools.git)
-
----
-
 # METODOLOGIA:
 
 1. AUTORIZAÇÃO: Documento escrito com escopo (IPs/domínios), Datas e Responsáveis.
