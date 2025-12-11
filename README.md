@@ -36,6 +36,7 @@ Files:
 * `host-discover.sh` — Descoberta Limpa de IPs Locais.
 * `wldomains.txt` — Lista de Palavras.
 * `adv_trojan.py`, `cowroot*.c`, `peshell.c` — POCs/Alto Risco (Usar Só Em Lab).
+* `E.V.O.N`, Prompt Injection Binario Para Google Gemini.
 
 ---
 
